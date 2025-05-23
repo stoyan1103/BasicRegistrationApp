@@ -16,6 +16,7 @@
 
 - Java 21
 - Java Servlet API (без framework)
+- JBCrypt (за хеширане на пароли)
 - HTML5, CSS3, Vanilla JavaScript
 - Tomcat 9.0 (за local development)
 - MySQL
