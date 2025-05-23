@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BasicRegistrationApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BasicRegistrationApp_jar</output-path>
+    <root id="archive" name="BasicRegistrationApp.jar">
+      <element id="module-output" name="BasicRegistrationApp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp" />
+    </root>
+  </artifact>
+</component>
